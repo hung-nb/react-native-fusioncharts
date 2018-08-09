@@ -1,0 +1,14 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "build:assets": "fc-build-assets --fc-template ./assets/fusioncharts-tpl.html"
+  },
+  "dependencies": {
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "react-native-fusioncharts": "^1.0.0"
+  }
+}
