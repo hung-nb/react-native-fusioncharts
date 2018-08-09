@@ -1,8 +1,4 @@
-## Demo
-[https://exp.host/@baohung/fusioncharts](https://exp.host/@baohung/fusioncharts)
-
 ## Features
- - Run both Android and iOS
  - React Native + Expo
  - All kind of FusionCharts can be displayed
  [https://www.fusioncharts.com/dev/chart-attributes/](https://www.fusioncharts.com/dev/chart-attributes/)
